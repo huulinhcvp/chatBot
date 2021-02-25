@@ -5,7 +5,8 @@
 <p>1, https://arxiv.org/abs/1508.04025 </p>
 <p>2, https://arxiv.org/abs/1506.05869 </p>
 <p>3, https://arxiv.org/abs/1409.0473 </p>
-<p>Danh sách thành viên đóng góp</p>
+<h2>Datasets: https://www.kaggle.com/thoughtvector/customer-support-on-twitter/ </h2>
+<h2>Danh sách thành viên đóng góp</h2>
 <l>
   <li>Hà Hữu Linh (nhóm trưởng)</li>
   <li>Trần Thị Quyên</li>
